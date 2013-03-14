@@ -25,6 +25,6 @@ while [ ${RES} -eq 1 ] && [ ${WHILE_FLAG} -le 3 ]
 		else
 			WHILE_FLAG=0
 		fi
-		done
+	done
 
 
